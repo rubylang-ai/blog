@@ -43,4 +43,4 @@ Stay tuned for more updates as we embark on this exciting adventure
 together. Your support and contributions will be invaluable in shaping
 the future of RubyLang.ai!
 
-You can learn more about [_what_ we are building here](https://github.com/rubylang-ai).
+You can learn more about [_what_ we are building here](https://github.com/rubylang-ai) and [follow our progress here]({{ "/progress" | relative_url }}).
