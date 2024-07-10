@@ -36,3 +36,6 @@ pagination:
 collections:
   progress:
     output: true
+
+rougify:
+  theme: "github"
