@@ -11,7 +11,7 @@ to fine-tuning a Large Language Model (LLM) specifically for Ruby. This journey
 will be open-source and built in public, inviting the entire Ruby community to
 contribute and benefit from the advancements.
 
-![RubyLang.ai Logo](/images/logo.png)
+<img src="https://res.cloudinary.com/dcuphvuk4/image/upload/v1720614737/banner_m2sgqz.png" alt="RubyLang.ai Logo" width="100%" loading="lazy" />
 
 ## Project Goals
 

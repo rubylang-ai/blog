@@ -1,7 +1,8 @@
 ---
 title: Exploring the Benefits of Fine Tuning
 categories: progress, updates, learning
-image: /images/exploring-fine-tunes.webp
+image: https://res.cloudinary.com/dcuphvuk4/image/upload/v1720614112/exploring-fine-tunes_xte85s.webp
+preview_image: https://res.cloudinary.com/dcuphvuk4/image/upload/v1720615195/exploring-fine-tunes-thumb_so0zyo.jpg
 published: true
 ---
 

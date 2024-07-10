@@ -81,3 +81,10 @@ hr {
   border-top: 2px dotted #bbb;
   margin: 3rem 0;
 }
+
+/* POST LISTS */
+.post-list {
+  img {
+    padding-right: 1rem;
+  }
+}
