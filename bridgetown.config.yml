@@ -17,7 +17,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-url: "https://rubylang.ai"
+url: "https://www.rubylang.ai"
+lang: "en_US"
 
 permalink: pretty
 template_engine: liquid

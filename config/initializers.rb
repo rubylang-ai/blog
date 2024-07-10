@@ -13,6 +13,8 @@ Bridgetown.configure do |config|
   config.url = "https://www.rubylang.ai"
   init :"bridgetown-sitemap"
 
+  init :"bridgetown-seo-tag"
+
   # You can configure the inflector used by Zeitwerk. In v2.0,
   # ActiveSupport::Inflector will become the default.
   #

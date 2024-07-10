@@ -38,3 +38,5 @@ gem "puma", "< 7"
 gem "bridgetown-rougify", "~> 0.1.0", :group => :bridgetown_plugins
 
 gem "bridgetown-sitemap", "~> 2.0"
+
+gem "bridgetown-seo-tag", "~> 6.0"
