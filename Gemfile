@@ -36,3 +36,5 @@ gem "puma", "< 7"
 # gem "nokolexbor", "~> 0.4"
 
 gem "bridgetown-rougify", "~> 0.1.0", :group => :bridgetown_plugins
+
+gem "bridgetown-sitemap", "~> 2.0"

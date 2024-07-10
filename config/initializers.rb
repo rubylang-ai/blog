@@ -10,6 +10,9 @@ Bridgetown.configure do |config|
   # config.autoload_paths << "models"
   #
 
+  config.url = "https://www.rubylang.ai"
+  init :"bridgetown-sitemap"
+
   # You can configure the inflector used by Zeitwerk. In v2.0,
   # ActiveSupport::Inflector will become the default.
   #
